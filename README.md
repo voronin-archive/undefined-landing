@@ -1,2 +1,3 @@
-# undefined-landing
-Landing page of our team
+# Лендинг-страница [undefined.studio](undefined.studio)
+
+Страницы, созданные для ознакомления с нашими умениями
